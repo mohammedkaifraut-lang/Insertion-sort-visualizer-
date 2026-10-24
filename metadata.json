@@ -1,0 +1,6 @@
+{
+  "name": "Insertion Sort Visualizer",
+  "description": "Interactive educational visualizer and guide for learning the Insertion Sort algorithm step-by-step with animated bars, live comparisons, and execution log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
